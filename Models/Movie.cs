@@ -37,6 +37,8 @@ namespace RazorPagesMovie.Models
     }
     public class RazorPagesMovieContext : DbContext
     {
+        internal object movies;
+
         public RazorPagesMovieContext (DbContextOptions<RazorPagesMovieContext> options)
             : base(options)
     {
