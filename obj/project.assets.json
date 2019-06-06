@@ -13284,11 +13284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tristanvanhook/Desktop/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectUniqueName": "/Users/tristanvanhook/Desktop/dotnet-app/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/Users/tristanvanhook/Desktop/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectPath": "/Users/tristanvanhook/Desktop/dotnet-app/RazorPagesMovie.csproj",
       "packagesPath": "/Users/tristanvanhook/.nuget/packages/",
-      "outputPath": "/Users/tristanvanhook/Desktop/RazorPagesMovie/obj/",
+      "outputPath": "/Users/tristanvanhook/Desktop/dotnet-app/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
