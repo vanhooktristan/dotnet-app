@@ -27,6 +27,8 @@ namespace RazorPagesMovie.Migrations
 
                     b.Property<decimal>("Price");
 
+                    b.Property<decimal>("Rating");
+
                     b.Property<DateTime>("ReleaseDate");
 
                     b.Property<string>("Title");
